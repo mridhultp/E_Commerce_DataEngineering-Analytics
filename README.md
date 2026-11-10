@@ -6,7 +6,7 @@ Built an end-to-end analytics solution using Azure Data Lake Storage
 Gen2, Microsoft Fabric Lakehouse, Fabric Data Pipeline, Spark
 SQL/PySpark, Delta Lake and Power BI.
 
-End-to-End Workflow
+### End-to-End Workflow
 
 1.	Source data -- ADLS Gen2
 ○	Stored four CSV files in Azure Data Lake Storage Gen2:
@@ -50,10 +50,19 @@ silver_orders, silver_order_items and silver_products.
 reporting.
 ○	Published the Power BI report.
 
-Architecture
+
+### Architecture
 
 ADLS Gen2 (CSV files) → Fabric Data Pipeline (Copy activity) → Lakehouse Bronze → Notebook / Spark SQL → Silver → Enriched view → Gold KPI table → Semantic model → Power BI report
-Key Technologies
+
+
+<img width="1911" height="852" alt="End to end project" src="https://github.com/user-attachments/assets/c110faef-bdd3-4f10-bd6e-00229c1d3e2c" />
+
+
+<img width="1902" height="927" alt="Power bi Dashboard" src="https://github.com/user-attachments/assets/28c333b0-5961-42b4-89e0-126c3d316ad3" />
+
+
+### Key Technologies
 
 ●	Azure Data Lake Storage Gen2
 ●	Microsoft Fabric Data Pipeline
