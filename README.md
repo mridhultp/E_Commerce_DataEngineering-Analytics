@@ -59,7 +59,7 @@ ADLS Gen2 (CSV files) → Fabric Data Pipeline (Copy activity) → Lakehouse Bro
 <img width="1911" height="852" alt="End to end project" src="https://github.com/user-attachments/assets/c110faef-bdd3-4f10-bd6e-00229c1d3e2c" />
 
 
-<img width="1902" height="927" alt="Power bi Dashboard" src="https://github.com/user-attachments/assets/28c333b0-5961-42b4-89e0-126c3d316ad3" />
+<img width="1888" height="867" alt="image" src="https://github.com/user-attachments/assets/283fd86a-9c94-429a-a18f-3f26e21f384d" />
 
 
 ### Key Technologies
